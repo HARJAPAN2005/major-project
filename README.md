@@ -1,5 +1,5 @@
 ## Overview
-Anemia is a severe global public health crisis, affecting approximately 40% of all children under five and 30% of women of reproductive age worldwide. Traditional diagnosis relies on invasive, painful, and costly blood draws that require specialized clinical infrastructure and generate biohazardous waste. 
+Anemia is a severe global public health crisis. Traditional diagnosis relies on invasive, painful, and costly blood draws that require specialized clinical infrastructure and generate biohazardous waste. 
 
 This project proposes a **non-invasive, point-of-care anemia screening system** designed for deployment via smartphone cameras. By leveraging deep learning and computer vision, the system extracts precise color features from specific anatomical regions—the eye conjunctiva, palms, and nail beds—to estimate hemoglobin levels rapidly and painlessly.
 
