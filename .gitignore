@@ -1,0 +1,5 @@
+u2net.pth
+__pycache__/
+*.pyc
+*.db
+database_images/
